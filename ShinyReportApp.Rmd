@@ -7,7 +7,7 @@ output:
       theme: cosmo
 ---
 ```{r include = FALSE}
-library(car)
+# library(car)
 library(ggplot2)
 library(MASS)
 library(DT)
